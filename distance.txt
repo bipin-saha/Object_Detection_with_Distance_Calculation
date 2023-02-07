@@ -1,0 +1,3 @@
+focal length = (pixel product image width_predicted * initial distance)/product width_real
+
+distance = (product width_real * focal length)/pixel product image width_predicted
